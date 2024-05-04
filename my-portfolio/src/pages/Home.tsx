@@ -30,13 +30,13 @@ const Home = () => {
           imageUrl={outbreakImage}
           name="Outbreak Game"
           description="A fun galaxy-esque shooter (JavaScript, Phaser)"
-          githubLink="https://github.com/your-username/project1"
+          githubLink="https://github.com/bperez7/outbreak"
         />
         <ProjectTile
           imageUrl={closingCostsImage}
           name="Real Estate Calculator"
           description="Full-stack responsive calculator for real estate metrics (Go, React, TypeScript)"
-          githubLink="https://github.com/your-username/project2"
+          githubLink="https://github.com/bperez7/closing_costs"
         />
         <ProjectTile
           imageUrl={multimodalDAWImage}
