@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6ffb8e51.css",
-    "main.js": "/portfolio/static/js/main.72a14d24.js",
+    "main.css": "/portfolio/static/css/main.2dcb7e17.css",
+    "main.js": "/portfolio/static/js/main.5531419c.js",
     "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
     "static/media/profile.png": "/portfolio/static/media/profile.9f87b8588cfe51f30011.png",
     "static/media/stock_photo.png": "/portfolio/static/media/stock_photo.abf8db44b39a6c453dda.png",
@@ -10,12 +10,12 @@
     "static/media/outbreak_game.png": "/portfolio/static/media/outbreak_game.0aca16ee496c288bd6dc.png",
     "static/media/MIT-logo-do.png": "/portfolio/static/media/MIT-logo-do.1487c7e83cbf3b86f39d.png",
     "index.html": "/portfolio/index.html",
-    "main.6ffb8e51.css.map": "/portfolio/static/css/main.6ffb8e51.css.map",
-    "main.72a14d24.js.map": "/portfolio/static/js/main.72a14d24.js.map",
+    "main.2dcb7e17.css.map": "/portfolio/static/css/main.2dcb7e17.css.map",
+    "main.5531419c.js.map": "/portfolio/static/js/main.5531419c.js.map",
     "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ffb8e51.css",
-    "static/js/main.72a14d24.js"
+    "static/css/main.2dcb7e17.css",
+    "static/js/main.5531419c.js"
   ]
 }
