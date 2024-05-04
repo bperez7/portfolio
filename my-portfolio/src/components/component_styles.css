@@ -1,0 +1,6 @@
+.project-tile img {
+    width: 100%; /* Sets image width to 100% of its container */
+    height: auto; /* Keeps the image aspect ratio intact */
+    max-height: 200px; /* Optionally limit the image height */
+  }
+  
