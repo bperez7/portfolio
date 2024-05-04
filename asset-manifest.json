@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/REPO_NAME/static/css/main.6ffb8e51.css",
-    "main.js": "/REPO_NAME/static/js/main.9386babd.js",
-    "static/js/453.acca0757.chunk.js": "/REPO_NAME/static/js/453.acca0757.chunk.js",
-    "static/media/profile.png": "/REPO_NAME/static/media/profile.9f87b8588cfe51f30011.png",
-    "static/media/stock_photo.png": "/REPO_NAME/static/media/stock_photo.abf8db44b39a6c453dda.png",
-    "static/media/closing_costs.png": "/REPO_NAME/static/media/closing_costs.b282d766cf2772ce3dfb.png",
-    "static/media/MultimodalDAW.png": "/REPO_NAME/static/media/MultimodalDAW.38959d7e86e36f019646.png",
-    "static/media/outbreak_game.png": "/REPO_NAME/static/media/outbreak_game.0aca16ee496c288bd6dc.png",
-    "static/media/MIT-logo-do.png": "/REPO_NAME/static/media/MIT-logo-do.1487c7e83cbf3b86f39d.png",
-    "index.html": "/REPO_NAME/index.html",
-    "main.6ffb8e51.css.map": "/REPO_NAME/static/css/main.6ffb8e51.css.map",
-    "main.9386babd.js.map": "/REPO_NAME/static/js/main.9386babd.js.map",
-    "453.acca0757.chunk.js.map": "/REPO_NAME/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.6ffb8e51.css",
+    "main.js": "/portfolio/static/js/main.b7733bcf.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.9f87b8588cfe51f30011.png",
+    "static/media/stock_photo.png": "/portfolio/static/media/stock_photo.abf8db44b39a6c453dda.png",
+    "static/media/closing_costs.png": "/portfolio/static/media/closing_costs.b282d766cf2772ce3dfb.png",
+    "static/media/MultimodalDAW.png": "/portfolio/static/media/MultimodalDAW.38959d7e86e36f019646.png",
+    "static/media/outbreak_game.png": "/portfolio/static/media/outbreak_game.0aca16ee496c288bd6dc.png",
+    "static/media/MIT-logo-do.png": "/portfolio/static/media/MIT-logo-do.1487c7e83cbf3b86f39d.png",
+    "index.html": "/portfolio/index.html",
+    "main.6ffb8e51.css.map": "/portfolio/static/css/main.6ffb8e51.css.map",
+    "main.b7733bcf.js.map": "/portfolio/static/js/main.b7733bcf.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ffb8e51.css",
-    "static/js/main.9386babd.js"
+    "static/js/main.b7733bcf.js"
   ]
 }
